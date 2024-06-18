@@ -1,0 +1,20 @@
+programme main c'est
+début
+    grilleCompleter := entier;
+    jouer := entier
+    tant que (jouer == 1) faire
+        tant que (grilleCompleter == 0) faire
+            afficheGrille();
+            tant que (verif == 0)
+            demandeValeur();
+            verificationGrille();
+            finfaire
+            rentreValeur();
+            verificationGrilleCompleter();    
+        finfaire
+        écrireEcran("Grille terminée bravo");
+        recomencer();
+    finfaire
+    écrireEcran("Bonne journée.");
+fin
+

@@ -1,0 +1,31 @@
+fonction afficheGrille
+affiche la grille 
+
+resultat
+
+
+
+fonction demandeValeur
+demande la ligne puis la colonne puis la valeur à l'utilisateur, prend on compte les erreurs de saisie et redemande la valeur
+
+
+
+fonction verificationGrille
+verifie si la valeur n'est pas dans la ligne, dans la colonne, dans la case et est déjà à l'endroit indiqué et si ce n'est pas le cas met verif à 1
+
+
+
+fonction rentreValeur
+rentre la valeur dans la grille 
+
+
+
+
+fonction verificationGrilleCompleter
+verifie si la grille est terminer, si elle l'est mettre grilleComplter à 1
+
+
+
+
+
+fonction recomencer
